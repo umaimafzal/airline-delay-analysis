@@ -52,7 +52,6 @@ At scale, flight delays affect national productivity, infrastructure resilience,
  Repository Contents
 - `flight_delay.ipynb` → Full Jupyter Notebook with cleaning, analysis, visualizations, and models.  
 - `README.md` → Project overview (this file).  
-- *(Optional)* `Airline_Delay_Cause.csv` → Dataset (https://www.kaggle.com/datasets/ryanjt/airline-delay-cause)
 
 ---
 

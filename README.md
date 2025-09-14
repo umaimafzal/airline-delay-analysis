@@ -1,7 +1,7 @@
 # Airline Delay Analysis (2013–2023)
 
 Author:Umaima Afzal  
-Contact: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Medium Article](https://medium.com/YOUR-MEDIUM-LINK)  
+Contact: [LinkedIn](https://www.linkedin.com/in/umaimaafzal/) |s 
 
 ---
 
